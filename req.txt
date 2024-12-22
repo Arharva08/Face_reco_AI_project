@@ -1,0 +1,6 @@
+OpenCV lib 
+Face Reco lib
+haarcascade_frontalface_Algo
+Dllib
+Tkinter for interface
+Threading
