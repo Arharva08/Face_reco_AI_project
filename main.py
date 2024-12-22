@@ -15,9 +15,9 @@ ADMIN_PASS = ""
 def connect_database():
     return mysql.connector.connect(
         host="localhost",
-        username="root",
-        password="Delldell123",
-        database="insta_vision"
+        username="",
+        password="",
+        database=""
     )
 
 
